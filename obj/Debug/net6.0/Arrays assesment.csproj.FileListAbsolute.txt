@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Arrays assesment\bin\Debug\net6.0\Arrays assesment.exe
+C:\Users\HP\Desktop\Arrays assesment\bin\Debug\net6.0\Arrays assesment.deps.json
+C:\Users\HP\Desktop\Arrays assesment\bin\Debug\net6.0\Arrays assesment.runtimeconfig.json
+C:\Users\HP\Desktop\Arrays assesment\bin\Debug\net6.0\Arrays assesment.dll
+C:\Users\HP\Desktop\Arrays assesment\bin\Debug\net6.0\Arrays assesment.pdb
+C:\Users\HP\Desktop\Arrays assesment\obj\Debug\net6.0\Arrays assesment.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Arrays assesment\obj\Debug\net6.0\Arrays assesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Arrays assesment\obj\Debug\net6.0\Arrays assesment.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Arrays assesment\obj\Debug\net6.0\Arrays assesment.AssemblyInfo.cs
+C:\Users\HP\Desktop\Arrays assesment\obj\Debug\net6.0\Arrays assesment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Arrays assesment\obj\Debug\net6.0\Arrays assesment.dll
+C:\Users\HP\Desktop\Arrays assesment\obj\Debug\net6.0\refint\Arrays assesment.dll
+C:\Users\HP\Desktop\Arrays assesment\obj\Debug\net6.0\Arrays assesment.pdb
+C:\Users\HP\Desktop\Arrays assesment\obj\Debug\net6.0\Arrays assesment.genruntimeconfig.cache
+C:\Users\HP\Desktop\Arrays assesment\obj\Debug\net6.0\ref\Arrays assesment.dll
